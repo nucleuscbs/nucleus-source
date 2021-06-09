@@ -1,0 +1,60 @@
+# Permalinks
+permalink:           /blog/:title/
+
+# Setup
+title:               The Analytics Bay
+tagline:             The Analytics bay
+description:         Always Analyzing
+footer:              The Analytics Bay
+
+exclude:             [/psd/]
+
+
+
+
+
+# SASS
+sass:
+  sass_dir:          _sass
+  style:            compressed
+  encoding:          utf-8
+
+# Google Analytics
+analytics_id:  
+
+
+# SEO
+author:
+  name: Shivansh Mehendiratta
+  twitter: shivansh3121
+  instagram: nucleus.cbs
+  youtube: nucleus.cbs
+  email: connect@theanalyticsbay.com
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /bg.jpeg
+      paginate: 10
+      paginate_path: "/page:num/"
+
+profile: /bg.jpg
+
+twitter:
+  username: shivansh3121
+
+social:
+  name: Shivansh Mehendiratta
+  links:
+    - https://twitter.com/shivansh3121
+    - https://instagram.com/shivansh3121
+    - https://youtube.com/c/shivansh3121
+
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-redirect-from
+  - jekyll-paginate

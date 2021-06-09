@@ -1,0 +1,25 @@
+/*!
+ * Milligram-scss v1.3.0
+ * https://milligram.github.io
+ *
+ * Copyright (c) 2017 CJ Patoilo
+ * Licensed under the MIT license
+ */
+
+
+// Image
+// ––––––––––––––––––––––––––––––––––––––––––––––––––
+
+img {
+width:100%
+}
+
+
+@media only screen and (max-width: $first-breakpoint) {
+ img{
+ float: none; 
+ width: 125%; 
+ max-width: 125%; 
+ margin-left: -12.5%; 
+}
+}

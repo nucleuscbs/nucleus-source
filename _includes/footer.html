@@ -1,0 +1,39 @@
+<!-- <footer id="footer">
+  <div class="row">
+
+    <div class="col-xs-12 col-sm-3 footer-social center-xs">
+        {% include social.html %}
+    </div>
+	<div class="col-xs-12 col-sm-6 footer">
+   <h1 style="color: #fff">Collegiate Entrepreneurs Organisation</h1>
+  <h1>Delhi University</h1>
+    </div>
+    <div class="col-xs-12 col-sm-3 footer">
+<a href="{% link noprivacy.md %}">Privacy Policy</a> | &copy; CEO, Delhi University
+    </div>
+  </div>
+</footer> -->
+<footer id="footer" style="
+  display:grid;
+  grid-template-columns: repeat(20,5%);
+  grid-template-rows: repeat(20,5%);
+  height: 40vh;
+">
+
+
+    <div class="footer-social footer-layout-social">
+        {% include social.html %}
+    </div>
+
+	  <div class="footer-layout-text">
+      <h1 style="color: #000; margin:0; line-height: 1.2; font-family: Gotham XNarrow;letter-spacing: 0.05rem;">THE ANALYTICS BAY</h1>
+      <img src="/nucleus.png" style="height:50px;width:auto;margin-left:0;">
+      <!-- <h1 style="line-height: 1.2;font-family: Gotham XNarrow;letter-spacing: 0.05rem; font-size: 3rem;color:#000">Nucleus, the analytics society of SSCBS</h1> -->
+    </div>
+
+    <div class="footer-layout-copy">
+      &copy; The Analytics Bay
+    </div>
+
+</footer>
+
