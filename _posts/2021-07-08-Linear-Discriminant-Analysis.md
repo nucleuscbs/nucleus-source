@@ -5,6 +5,7 @@ description: Linear Discriminant Analysis is a dimensionality reduction techniqu
 date: 2021-07-08
 featured: no
 ---
+<img src="/blog/Linear-Discriminant-Analysis/LDA.jpg">
 
 Imagine the world is struck by a devastating pandemic (even need to imagine?). The pandemic is taking the lives of people across the world and has put the world to a halt. People are eagerly waiting for a vaccine and scientists are working hard to make one. Now, making a vaccine isn’t an easy business - after doing a lot of research you find that different people react differently to the vaccine and a vaccine might have severe after-effects on a small group of people depending upon several differentiating factors among the people. How to classify these different people which have a specific effect after taking the vaccine based on a much fewer number of factors? That is, how to reduce the number of variables differentiating these people without losing information provided by other variables? 
 
