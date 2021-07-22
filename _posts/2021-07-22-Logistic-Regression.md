@@ -21,14 +21,18 @@ Example of Logistic Regression
 We can use an example to learn Logistic Regression better. Let’s say we have data that can be used to predict a person’s gender based on their height. Given a height of 150cm is the person male or female.
 
 Let’s say that the coefficients are b0 = -100 and b1 = 0.6. The above equation can be utilized to predict if a person is male given a height of 150cm or more formally P(male|height=150).
+
 <b>y = e^(b0 + b1*x) / (1 + e^(b0 + b1*x))</b>
+
 <b>y = e^(-100 + 0.6*150) / (1 + e^(-100 + 0.6*x))</b>
+
 <b>y = 0.00004539</b>
 
 The probability is so low that it can be used as 0, and certainly this person is not male.
 Since, this is classification and we want a crisp answer, we can create bins for a complete classification of the values, for example:
 
 <b>0 if p(male) < 0.5</b>
+
 <b>1 if p(male) >= 0.5</b>
 
 Logistic regression models are models that have a certain fixed number of parameters that depend on the number of input features, and they output categorical predictions, like for example if a cancer is malignant or not. 
@@ -47,11 +51,11 @@ However, in this article we’ll be focusing solely on the binary classification
 
 The most popular dataset on Kaggle, undoubtedly, is the Titanic Dataset. It can also be considered a rite of passage for aspiring data scientists learning classification models. And why not, the data is structured in a way that helps people learn the fundamentals of classification and logistic regression.
 
-<img src="/blog/LogisticRegression/Logistic3.png">
+<img src="/blog/LogisticRegression/Logistic3.jpg">
 
 The dataset has the following variables (attributes) which are explained very well on Kaggle.
 
-<img src="/blog/LogisticRegression/Logistic4.png">
+<img src="/blog/LogisticRegression/Logistic4.jpg">
 
 Here, we shall use the train.csv provided to train the model and predict the survival of a passenger based on the given variables.
 
@@ -63,39 +67,39 @@ import pandas as pd
 titanic = pd.read_csv("train.csv")
 titanic.shape
 
-<img src="/blog/LogisticRegression/Logistic5.png">
-<img src="/blog/LogisticRegression/Logistic6.png">
-<img src="/blog/LogisticRegression/Logistic7.png">
+<img src="/blog/LogisticRegression/Logistic5.jpg">
+<img src="/blog/LogisticRegression/Logistic6.jpg">
+<img src="/blog/LogisticRegression/Logistic7.jpg">
 
 <h3>Data Preprocessing </h3>
 
 It is also worth noting that ‘Embarked’ has 3 classes C, Q, S which have to be converted into individual attributes.
 
-<img src="/blog/LogisticRegression/Logistic8.png">
+<img src="/blog/LogisticRegression/Logistic8.jpg">
 
 Here, we’ve used the ‘get_dummies’ function to create separate variables for each Embarked class. And we’ve joined the new dataframe with the original dataframe.
 
 We’ve created two dataframes X and y, which will be used for Logistic Regression and learning. And dropped multiple non-numeric attributes which have no effect on the survival of a passenger. 
 
-<img src="/blog/LogisticRegression/Logistic9.png">
+<img src="/blog/LogisticRegression/Logistic9.jpg">
 
 We see that ‘Age’ has many null values, so we use ‘mean’ to impute null values.
 
-<img src="/blog/LogisticRegression/Logistic10.png">
+<img src="/blog/LogisticRegression/Logistic10.jpg">
 
 <h3>Creating the Model</h3>
 
 We’ll use ScikitLearn to create the Logistic Regression model, and split the dataset into 80% (used for training the model) and 20% (for testing the model).
 
-<img src="/blog/LogisticRegression/Logistic11.png">
+<img src="/blog/LogisticRegression/Logistic11.jpg">
 
 After the model is created, it is necessary to check how well it has performed. The model score for testing is 0.754, which means that 75.4% of the time the model correctly predicts if a passenger has survived the disaster or not. We also figured out the intercept and coefficients (the array is made up of all the attributes used in the model).
 
-<img src="/blog/LogisticRegression/Logistic12.png">
+<img src="/blog/LogisticRegression/Logistic12.jpg">
 
 However, the correlation between the attributes and survival can be better understood with a visual.
 
-<img src="/blog/LogisticRegression/Logistic13.png">
+<img src="/blog/LogisticRegression/Logistic13.jpg">
 
 This cell’s output is a heatmap that shows the correlation between all the attributes.
 <img src="/blog/LogisticRegression/Logistic14.jpg">
