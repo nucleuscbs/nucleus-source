@@ -20,7 +20,7 @@ Example of Logistic Regression
 
 We can use an example to learn Logistic Regression better. Let’s say we have data that can be used to predict a person’s gender based on their height. Given a height of 150cm is the person male or female.
 
-Let’s say that the coefficients are b0 = -100 and b1 = 0.6. The above equation can be utilized to predict if a person is male given a height of 150cm or more formally P(male|height=150).
+Let’s say that the coefficients are b0 = -100 and b1 = 0.6. The above equation can be utilized to predict if a person is male given a height of 150cm.
 
 <b>y = e^(b0 + b1*x) / (1 + e^(b0 + b1*x))</b>
 
@@ -64,7 +64,9 @@ Here, we shall use the train.csv provided to train the model and predict the sur
 <h3>Importing the dataset, and understanding the data: </h3>
 
 import pandas as pd
+
 titanic = pd.read_csv("train.csv")
+
 titanic.shape
 
 <img src="/blog/LogisticRegression/Logistic5.jpg">
