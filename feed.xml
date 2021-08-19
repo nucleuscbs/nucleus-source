@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-05T16:25:30+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">The Analytics Bay</title><subtitle>Always Analyzing</subtitle><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><entry><title type="html">The Turing Test</title><link href="http://localhost:4000/blog/Turing-Test/" rel="alternate" type="text/html" title="The Turing Test" /><published>2021-08-05T00:00:00+05:30</published><updated>2021-08-05T00:00:00+05:30</updated><id>http://localhost:4000/blog/Turing-Test</id><content type="html" xml:base="http://localhost:4000/blog/Turing-Test/">&lt;p&gt;&lt;img src=&quot;/blog/TuringTest/Turing1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;WHAT IS THE TURING TEST?&lt;/h2&gt;
+
+&lt;p&gt;The Turing Test (originally known as an Imitation Game) is a method of inquiry into artificial intelligence (AI) for determining whether a computer is capable of thinking like a human being or not. The test is named after its creator Alan Turing, an English Computer Scientist, Theoretical Biologist, Mathematician, and Cryptanalyst.&lt;/p&gt;
+
+&lt;p&gt;Turing proposed that a computer can be said to possess artificial intelligence if it can replicate human responses under particular conditions. The Original Turing Test involved three entities, each of which would be physically separated from the rest. One of the entities would be operated by a computer, while the other two would be operated by humans.&lt;/p&gt;
+
+&lt;p&gt;During the test, one human is an interrogator, while the second human and the computer function as respondents or answer terminals. The questioner asks questions from the respondents within a particular subject area with a similar format and context. After a pre-set duration (usually 5 minutes), or a particular number of questions, the questioner is then asked to differentiate the human and the computer out of the two.&lt;/p&gt;
+
+&lt;p&gt;The test is repeated a number of times. If the questioner cannot reliably differentiate between the conversation of the computer and human then the computer is considered to have passed the test because its answers are “just as human” as the human respondent.&lt;/p&gt;
+
+&lt;h2&gt;THE WORKING OF THE TURING TEST&lt;/h2&gt;
+
+&lt;p&gt;According to Turing, the main motive of the test is that a machine has to try and pretend to be a human, by answering questions put to it, and it will only pass if it is successful in convincing to be a human.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/TuringTest/Turing2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The humans were restricted from giving away any of the personal information during the tests.&lt;/p&gt;
+
+&lt;p&gt;In the tests conducted at the Royal Society in June 2014, there were six different sessions with five parallel imitation games at a time occurring during each session. A different judge was selected for each game, which meant there were five judges in each session. Each session had five rounds, with five parallel imitation games in each round. Each anonymous human was part of the five games in a session.  All five machines (the five different competition bots) took part, so every machine was involved in five games per session, hence 30 games in totality.&lt;/p&gt;
+
+&lt;p&gt;In a particular session, a judge conducted five different tests. In their first test, they noticed a hidden human pitted against a hidden machine&lt;/p&gt;
+
+&lt;p&gt;The second test conducted involved a different human against a different machine. And so on. It would continue until the judge had conducted all five tests in that session. At the end of each test, they were asked to tell each entity if they were able to differentiate between a machine and a human.&lt;/p&gt;
+
+&lt;h2&gt;RESULTS&lt;/h2&gt;
+
+&lt;p&gt;There were five machines involved in total in the tests and their success rates were:&lt;/p&gt;
+
+&lt;p&gt;●	Eugene Goostman 33%&lt;/p&gt;
+
+&lt;p&gt;●	Elbot 27%&lt;/p&gt;
+
+&lt;p&gt;●	J. Fred 20%&lt;/p&gt;
+
+&lt;p&gt;●	Ultra-Hal 13%&lt;/p&gt;
+
+&lt;p&gt;●	Clever Bot 7%&lt;/p&gt;
+
+&lt;p&gt;In each case, their success rate was in respect of judges identifying them as humans. Eugene Goostman was the program that was considered to have passed the test with a success rate of 33%.&lt;/p&gt;
+
+&lt;h2&gt;EUGENE GOOSTMAN&lt;/h2&gt;
+
+&lt;p&gt;Eugene Goostman is a chatbot programmed by three Russian programmers in Saint Petersburg in 2001. The program replicates a thirteen-year-old Ukrainian boy and is said to have been successful in passing the Turing test at an event organized by the University of Reading.&lt;/p&gt;
+
+&lt;p&gt;According to Vladimir Veselov, one of the creators of the program, the choice of the age of Eugene Goostman was taken as thirteen because a thirteen-year-old is “neither too old to know a lot nor too young to know nothing”. This young age also leads to people ignoring any minor grammatical errors that the program might end up making.
+The following is the transcript of a conversation between one of the Judges of the test, and two respondents, one of which is a human and the other is Eugene Goostman. We would like you to read both the transcripts and see whether you are able to distinguish between the human respondent and Eugene or not.&lt;/p&gt;
+
+&lt;h2&gt;TRANSCRIPT 1:&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Good afternoon&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; Good afternoon!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; How many left hands do you have?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; The same as right hands, and how about you?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; The same of course. I love the scent of new-mown hay. How do you feel about scent?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; I find it exciting and refreshing! Does it make you feel anything?
+Judge: Well it depends..Which smell do you really hate?&lt;/p&gt;
+
+&lt;h2&gt;TRANSCRIPT 2:&lt;/h2&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Hello&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; Hello, I’m really glad to have the chance to chat with you! My guinea pig Bill sends his regards too!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Is Bill a male or a female?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; Ask Bill personally, please.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Well I’d rather talk to you. My name is Jane and I am female. How about you? What’s your gender?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; I’m a male. A “guy”, I’d say.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Pleased to meet you. What’s the weather like where you are?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; Let’s get on with our conversation!&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; Don’t you like talking about the weather?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; All these talks about weather is a waste of time&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; What would you like to discuss?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; I don’t know … Better tell me more about yourself! Where do you come from, by the way? Could you tell me about the place where you live?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Judge:&lt;/b&gt; It’s a lovely place with two bedrooms and a great view over London. What can you see from your bedroom window?&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Respondent:&lt;/b&gt; I’ve never been to London, but I’d really love to visit it! To see their … their … (damn, what do they have …) Oh yes – their Big-Ben!&lt;/p&gt;
+
+&lt;p&gt;In this conversation, the respondent in Transcript 1 was a female human whereas the Respondent in Transcript 2 was the machine Eugene. The judge considered the respondent in Transcript 1 to be definitely a machine, awarding it only 20 out of 100 (a very poor score) for humanlike conversation. However, they marked the respondent in Transcript 2 i.e Eugene Goostman as unsure.&lt;/p&gt;
+
+&lt;h2&gt;ALTERNATIVES TO THE TURING TEST&lt;/h2&gt;
+&lt;p&gt;There were many alternatives to Turing Tests that were later developed. These alternatives include:&lt;/p&gt;
+
+&lt;p&gt;●	The Marcus Test – A test in which a program can watch a visual show and is then interrogated by being asked meaningful questions about the show’s content.&lt;/p&gt;
+
+&lt;p&gt;●	The Lovelace Test 2.0 – A test made to detect AI through its ability to create art.&lt;/p&gt;
+
+&lt;p&gt;●	Winograd Schema Challenge – A test that asks multiple-choice questions in a particular format.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Logistic Regression And Surviving The Titanic</title><link href="http://localhost:4000/blog/Logistic-Regression/" rel="alternate" type="text/html" title="Logistic Regression And Surviving The Titanic" /><published>2021-07-22T00:00:00+05:30</published><updated>2021-07-22T00:00:00+05:30</updated><id>http://localhost:4000/blog/Logistic-Regression</id><content type="html" xml:base="http://localhost:4000/blog/Logistic-Regression/">&lt;p&gt;Logistic Regression, or the Logit Model, is one of the fundamental blocks of statistics and machine learning. It is used when the dependent variable is categorical, and is the go to method for binary classification (two class values). For example, the probability of win/lose or pass/fail an exam. Most popular use of logistic regression today is in determining if an email is spam or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;How does it work?&lt;/h1&gt;
+&lt;p&gt;At the core of the logistic regression is the logit function, also called the sigmoid function and was developed by statisticians to describe properties of population growth in ecology, biology and environment sciences. It’s an S-shaped curve that maps any real-valued number into a value between 0 and 1, not necessary at only those limits. The equation for Logistic Regression is:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where y is the predicted output, B0 is the intercept and B1 is the coefficient for (x). It can be said that Logistic regression is a linear function. However, the predictions are morphed into classification using the logit function.
+Example of Logistic Regression&lt;/p&gt;
+
+&lt;p&gt;We can use an example to learn Logistic Regression better. Let’s say we have data that can be used to predict a person’s gender based on their height. Given a height of 150cm is the person male or female.&lt;/p&gt;
+
+&lt;p&gt;Let’s say that the coefficients are b0 = -100 and b1 = 0.6. The above equation can be utilized to predict if a person is male given a height of 150cm.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;y = e^(b0 + b1&lt;em&gt;x) / (1 + e^(b0 + b1&lt;/em&gt;x))&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;y = e^(-100 + 0.6&lt;em&gt;150) / (1 + e^(-100 + 0.6&lt;/em&gt;x))&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;y = 0.00004539&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The probability is so low that it can be used as 0, and certainly this person is not male.
+Since, this is classification and we want a crisp answer, we can create bins for a complete classification of the values, for example:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;0 if p(male) &amp;lt; 0.5&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1 if p(male) &amp;gt;= 0.5&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Logistic regression models are models that have a certain fixed number of parameters that depend on the number of input features, and they output categorical predictions, like for example if a cancer is malignant or not.&lt;/p&gt;
+
+&lt;h1&gt;Types of Logistic Regression&lt;/h1&gt;
+
+&lt;p&gt;&lt;b&gt;Binary Logistic Regression:&lt;/b&gt; The final response has only two possible outcomes. For example, either a student passes an exam or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Multinomial Logistic Regression:&lt;/b&gt; More than two possible outcomes, without any ordering. For example, predicting which of the election candidates wins among many.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Ordinal Logistic Regression:&lt;/b&gt; An ordered possibility of outcomes. For example, figuring out the movie rating from 1 to 5.&lt;/p&gt;
+
+&lt;p&gt;However, in this article we’ll be focusing solely on the binary classification type as it is the most popular among the three. ‘&lt;/p&gt;
+
+&lt;h1&gt;Surviving a Disaster and The Titanic Dataset&lt;/h1&gt;
+
+&lt;p&gt;The most popular dataset on Kaggle, undoubtedly, is the Titanic Dataset. It can also be considered a rite of passage for aspiring data scientists learning classification models. And why not, the data is structured in a way that helps people learn the fundamentals of classification and logistic regression.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The dataset has the following variables (attributes) which are explained very well on Kaggle.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here, we shall use the train.csv provided to train the model and predict the survival of a passenger based on the given variables.&lt;/p&gt;
+
+&lt;h1&gt;Code &lt;/h1&gt;
+
+&lt;h3&gt;Importing the dataset, and understanding the data: &lt;/h3&gt;
+
+&lt;p&gt;import pandas as pd&lt;/p&gt;
+
+&lt;p&gt;titanic = pd.read_csv(“train.csv”)&lt;/p&gt;
+
+&lt;p&gt;titanic.shape&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic5.jpg&quot; /&gt;
+&lt;img src=&quot;/blog/LogisticRegression/Logistic6.jpg&quot; /&gt;
+&lt;img src=&quot;/blog/LogisticRegression/Logistic7.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Data Preprocessing &lt;/h3&gt;
+
+&lt;p&gt;It is also worth noting that ‘Embarked’ has 3 classes C, Q, S which have to be converted into individual attributes.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic8.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here, we’ve used the ‘get_dummies’ function to create separate variables for each Embarked class. And we’ve joined the new dataframe with the original dataframe.&lt;/p&gt;
+
+&lt;p&gt;We’ve created two dataframes X and y, which will be used for Logistic Regression and learning. And dropped multiple non-numeric attributes which have no effect on the survival of a passenger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic9.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We see that ‘Age’ has many null values, so we use ‘mean’ to impute null values.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic10.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Creating the Model&lt;/h3&gt;
+
+&lt;p&gt;We’ll use ScikitLearn to create the Logistic Regression model, and split the dataset into 80% (used for training the model) and 20% (for testing the model).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic11.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the model is created, it is necessary to check how well it has performed. The model score for testing is 0.754, which means that 75.4% of the time the model correctly predicts if a passenger has survived the disaster or not. We also figured out the intercept and coefficients (the array is made up of all the attributes used in the model).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic12.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;However, the correlation between the attributes and survival can be better understood with a visual.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticRegression/Logistic13.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This cell’s output is a heatmap that shows the correlation between all the attributes.
+&lt;img src=&quot;/blog/LogisticRegression/Logistic14.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h1&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;Logistic regression is one of the most exciting concepts in statistics and a powerful tool to classify data. However, one shortcoming of Logit functions is that they are not able to work well with outliers and leads to overfitting. Hence, we must try and remove outliers from the data provided to make the model more accurate.&lt;/p&gt;
+
+&lt;p&gt;This was the most simple method that can be used to train a ML Logistic model. We can always use more sophisticated models for better prediction and classification using a more detailed analysis of the data and more complex feature engineering.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html">Logistic Regression, or the Logit Model, is one of the fundamental blocks of statistics and machine learning. It is used when the dependent variable is categorical, and is the go to method for binary classification (two class values). For example, the probability of win/lose or pass/fail an exam. Most popular use of logistic regression today is in determining if an email is spam or not.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Linear Discriminant Analysis</title><link href="http://localhost:4000/blog/Linear-Discriminant-Analysis/" rel="alternate" type="text/html" title="Linear Discriminant Analysis" /><published>2021-07-08T00:00:00+05:30</published><updated>2021-07-08T00:00:00+05:30</updated><id>http://localhost:4000/blog/Linear-Discriminant-Analysis</id><content type="html" xml:base="http://localhost:4000/blog/Linear-Discriminant-Analysis/">&lt;p&gt;&lt;img src=&quot;/blog/Linear-Discriminant-Analysis/LDA.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Imagine the world is struck by a devastating pandemic (even need to imagine?). The pandemic is taking the lives of people across the world and has put the world to a halt. People are eagerly waiting for a vaccine and scientists are working hard to make one. Now, making a vaccine isn’t an easy business - after doing a lot of research you find that different people react differently to the vaccine and a vaccine might have severe after-effects on a small group of people depending upon several differentiating factors among the people. How to classify these different people which have a specific effect after taking the vaccine based on a much fewer number of factors? That is, how to reduce the number of variables differentiating these people without losing information provided by other variables?&lt;/p&gt;
+
+&lt;h2&gt;INTRODUCTION&lt;/h2&gt;
+
+&lt;p&gt;Linear Discriminant Analysis is what we call a dimensionality reduction technique. Given all the factors that you have and all the information they contain, you try to squeeze that information into as few dimensions or variables as you can. 
+Take a multiple regression model with 5 variables as an example. The model squeezes all the info in the factors into a single variable, i.e. the predicted y-value. It is an example of dimensionality reduction as it reduces multiple factors into a single variable without losing any substantial information.
+Linear Discriminant Analysis does something very similar, but with a different objective. In regression, we are concerned with predicting the dependent variable with as much accuracy as possible. Whereas, LDA reduces the dimensions in such a way that it becomes easy to classify the dependent variable. In rough terms, it tries to predict a categorical dependent variable.
+And it is this very feature of LDA, that makes it indispensable for the vaccine problem discussed in the beginning. But how exactly does LDA reduce the dimensions? Let’s find out.&lt;/p&gt;
+
+&lt;h2&gt;INTUITION&lt;/h2&gt;
+
+&lt;p&gt;Let’s start with a basic example having two independent variables X1 and X2. Using these two variables, we want to predict if the dot will be red or blue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Linear-Discriminant-Analysis/1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;One way to reduce dimensions, in this case, is to project the values on either of the axes, i.e., you reduce the dimension by completely ignoring one of them. Needless to say, this is not an efficient way as we lose substantial amounts of data in the process. So, what we do is create a new axis using both the variables available to us and project the values onto that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Linear-Discriminant-Analysis/2.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;It can be clearly seen that it is now relatively easier to predict the color of the dots. Roughly speaking, those values in the lower half of the line are blue and other red. But how do we form this axis? In regression models, we form the axis (line of best fit) using the ordinary least squares method. Let’s see how the same is achieved in LDA.&lt;/p&gt;
+
+&lt;h2&gt;FORMULA&lt;/h2&gt;
+
+&lt;p&gt;1.) The required line is the one that maximizes the following amount.&lt;/p&gt;
+
+&lt;p&gt;Here, μ represents the mean of the values in the respective categories (in our case, arithmetic mean for red and blue dots) and s squared represents the respective variations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Linear-Discriminant-Analysis/3.jpeg&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align:center; font-size:18px;&quot;&gt;via StatQuest&lt;/p&gt;
+
+&lt;p&gt;2.) So basically, we try to separate the classes by maximizing the square of the distance between the means, and we try to improve the accuracy of the model by minimizing the “scatter” within individual categories.
+One thing to keep in mind is that this is a basic formula where we only have two categories and two dimensions, to begin with. For more dimensions and categories, the formulas start expanding and become more complicated. But that is a story for another time…&lt;/p&gt;
+
+&lt;h2&gt;CONCLUSION&lt;/h2&gt;
+
+&lt;p&gt;Hope you got to know something about Linear Discriminant Analysis. It helps one separate different classes of objects, things, people, etc. based on their differentiators by reducing them. This can also be done by Principal Component Analysis covered by us &lt;a href=&quot;https://theanalyticsbay.com/blog/Principal-Component-Analysis/&quot; style=&quot;color:#a0f1ff&quot;&gt;&lt;u&gt;here&lt;/u&gt;&lt;/a&gt;, but Linear Discriminant Analysis focuses on maximum separability of the objects to be classified and hence is more accurate.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Conjoint Analysis</title><link href="http://localhost:4000/blog/Conjoint-Analysis/" rel="alternate" type="text/html" title="Conjoint Analysis" /><published>2021-06-17T00:00:00+05:30</published><updated>2021-06-17T00:00:00+05:30</updated><id>http://localhost:4000/blog/Conjoint-Analysis</id><content type="html" xml:base="http://localhost:4000/blog/Conjoint-Analysis/">&lt;p&gt;&lt;img src=&quot;/blog/Conjoint%20Analysis/Conjoint.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Conjoint analysis is the optimal market research approach for measuring the value that consumers place in features of a product or service.
+It is used to determine the value consumers associate with different features of a product. In the real world, we make a lot of buying decisions and choose out of hundreds of varieties of a product available. These buying decisions are guided by the value we associate with various features of that product.
+Conjoint analysis involves conducting surveys and recording their responses. These surveys should include various characteristics of a particular product. It may also involve associating numeric values or rankings to various features of the product. The analysis of the responses gives us the ability to peek into the mind of the target audience and see what they value the most. The information gathered acts as a decision-maker.
+For example, if one go to buy a phone there are many factors one would like to consider. For simplicity let’s consider only 6 factors- price, screen size, looks, storage, battery and camera, which would impact our decision.
+Now we survey 100 consumers about what would they prefer the most among these 6 features. The following are the results:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Conjoint%20Analysis/Consumer_Pref.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now using this data, a particular company can manufacture products keeping in mind the consumer preferences. However, conjoint analysis is a complex phenomenon it also involves series of permutations and combinations to determine the results. Using the above results, we can see that Battery and Screen size are the least looked at aspects while buying a phone and camera and price the most noticed aspect. Therefore, the company can save cost using average quality and specifications of battery and screen size and invest them in a good quality camera and reduce the price.&lt;/p&gt;
+
+&lt;h3&gt;Types of Conjoint Analysis&lt;/h3&gt;
+
+&lt;p&gt;There are three main types of conjoint analysis: Choice-based Conjoint (CBC) Analysis and Adaptive Conjoint Analysis (ACA) and Maxdiff Conjoint Analysis&lt;/p&gt;
+
+&lt;h3&gt;Choice-based Conjoint (CBC) Analysis:&lt;/h3&gt;
+
+&lt;p&gt;This type of conjoint analysis is the most popular because it asks consumers to imitate the real market’s purchasing behavior - which products they might choose, given specific criteria on price and features.
+For example, each product or service has a specific set of defining characters. Some of these characters might be almost like one another or will differ. For example, you might present the respondents with the following choice:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Conjoint%20Analysis/Device.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The devices are almost similar, but device 2 has triple cameras with better configuration, and Device 1 has a higher battery power than Device 2. This helps in knowing the vital trade-off between the number of cameras and battery capacity based on analysis of received responses.&lt;/p&gt;
+
+&lt;h3&gt;Adaptive conjoint analysis (ACA):&lt;/h3&gt;
+&lt;p&gt;This type of conjoint analysis is often used in scenarios where the number of attributes/features exceeds what can be done in a choice-based scenario. ACA is suitable for product design and segmentation research, but not for determining the ideal price.
+The adaptive conjoint analysis is a graded-pair comparison task, where the respondents are asked to assess their relative preferences between groups of attributes.  Each pair is evaluated thereafter on a predefined scale.&lt;/p&gt;
+
+&lt;p&gt;For example, a respondent might be asked to choose between the following two concepts:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Conjoint%20Analysis/ACA.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The answers are used to determine the respondent’s part-worths of each of the attribute levels.  Once part-worths have been determined, the respondent’s overall preference for a given product can be estimated by summing the part-worths of each attribute level that describes that product.&lt;/p&gt;
+&lt;h3&gt;Max-Diff Conjoint Analysis:&lt;/h3&gt;
+&lt;p&gt;The max-Diff conjoint analysis shows a variety of packages to be selected under best/most preferred and worst/least preferred scenarios. Respondents can quickly indicate the best and worst items in a list, but struggle to decipher their feelings for the ‘middle ground’. Max-Diff is an easier task to undertake when consumers are well trained at making comparative judgments.
+Max-Diff conjoint analysis is an ideal method when the decision task is to evaluate product choice. An experimental design is used to balance and properly represent the sets of items. Several methods can be taken with analyzing Max-Diff studies, including Hierarchical Bayes conjoint analysis to derive utility score estimates, best/worst counting analysis, and TURF analysis.&lt;/p&gt;
+
+&lt;p&gt;Below is an example, involving a set of four attributes where the respondents can be asked to indicate the attributes that are the most/ least important to them:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Conjoint%20Analysis/MaxDiff.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;Conclusion:&lt;/h3&gt;
+&lt;p&gt;In conclusion, Conjoint Analysis helps in discovering the relative importance of the attributes of a product to the consumers. It is a marketing tool that is gaining momentum and is being used by product developers all over the world.&lt;/p&gt;
+
+&lt;p&gt;Hopefully, this blog has enlightened about Conjoint Analysis and it’s different types.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html">Conjoint analysis is the optimal market research approach for measuring the value that consumers place in features of a product or service. It is used to determine the value consumers associate with different features of a product. In the real world, we make a lot of buying decisions and choose out of hundreds of varieties of a product available. These buying decisions are guided by the value we associate with various features of that product. Conjoint analysis involves conducting surveys and recording their responses. These surveys should include various characteristics of a particular product. It may also involve associating numeric values or rankings to various features of the product. The analysis of the responses gives us the ability to peek into the mind of the target audience and see what they value the most. The information gathered acts as a decision-maker. For example, if one go to buy a phone there are many factors one would like to consider. For simplicity let’s consider only 6 factors- price, screen size, looks, storage, battery and camera, which would impact our decision. Now we survey 100 consumers about what would they prefer the most among these 6 features. The following are the results:</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Fibonacci and The Golden Ratio</title><link href="http://localhost:4000/blog/Fibonacci/" rel="alternate" type="text/html" title="Fibonacci and The Golden Ratio" /><published>2021-06-02T00:00:00+05:30</published><updated>2021-06-02T00:00:00+05:30</updated><id>http://localhost:4000/blog/Fibonacci</id><content type="html" xml:base="http://localhost:4000/blog/Fibonacci/">&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/Cover.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Maths can be fun, right? In this article we’ll be going through one of the more popular as well as enthralling concepts from the world of numbers: Fibonacci Numbers.&lt;/p&gt;
+
+&lt;p&gt;Any person who has ever studied maths will be acquainted with the Fibonacci numbers or the Fibonacci sequence, introduced by Leonardo of Pisa in his 1202 book Liber Abaci. Well, to sum up, the Fibonacci sequence is made of numbers where each number is a sum of two preceding numbers in the sequence, beginning from 0 and 1. Thus, the first fifteen numbers in the sequence are:&lt;/p&gt;
+
+&lt;p&gt;0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377…. and so on.&lt;/p&gt;
+
+&lt;p&gt;Here, the 6th term, 5 is a sum of 2 and 3, 89 results from the addition of 34 and 55, and 233 from 89 and 144. The sequence obviously stretches to infinity. However, an interesting observation arises from the Fibonacci sequence, when we divide any number in the series from the previous number, we increasingly tend towards the ratio 1.618, as seen in the image below. This is the Golden Ratio, also known as Phi.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/1.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Golden Ratio also manifests in the following spiral:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Credit: theincredibletruths.com&lt;/p&gt;
+
+&lt;p&gt;The appearance and applications of Fibonacci numbers and the Golden Ratio are plenty and baffling, ranging from nature and biology to algorithms and even the stock market. Here, we’ll discuss some of these intriguing aspects of the two.
+Fibonacci in Nature, Space and Biology&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/3.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Credit: theincredibletruths.com&lt;/p&gt;
+
+&lt;p&gt;As evident from the above image, petals of many flowers like roses, sunflowers, and lilies follow a pattern very similar to the one formed by the Golden Ratio. This phenomenon is also found in biology, especially human anatomy.&lt;/p&gt;
+
+&lt;p&gt;There are many instances of the Golden Ratio in the human body, and many people even estimate the number to be as high as 300! Like, the length of your palm to your arm is approximately 1.618. The spiral also appears quite frequently in many works of art, particularly in those of Leonardo Da Vinci.&lt;/p&gt;
+
+&lt;p&gt;Outer space also encompasses the Golden Ratio in many forms and methods, like the spiral of a galaxy. Or that the ratio of diameter of Saturn’s rings to the diameter of the planet itself is very close to the Golden Ratio.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/4.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Credit: unimelb.edu.au&lt;/p&gt;
+
+&lt;p&gt;A more acute example of the Golden Ratio in space would be found in our Solar System itself. The period it takes for many planets to revolve around the sun on their elliptical paths corresponds very closely to the Golden Ratio (and the use of exponents).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/5.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Fibonacci Retracements
+One application of the Fibonacci series appears in the stock market, specifically in technical analysis of securities. Consistency is a prominent feature of the series, and it is also visible when we divide one term with its succeeding numbers in the series.&lt;/p&gt;
+
+&lt;p&gt;For example,
+Dividing one number by the following number, 13/21 = 0.618
+If we skip over one number in the series, we get 13/34 = 0.382
+Skipping over two numbers gets us 13/55 = 0.236&lt;/p&gt;
+
+&lt;p&gt;This holds true for all numbers in the series, and when expressed as percentages they are 61.8%, 38.2% and 23.6% which form the levels of Fibonacci Retracements. But what exactly is Fibonacci analysis or retracement? Whenever a stock moves in any direction, upwards or downwards, usually it tends to retract before its next movement. For example, if the price of a security moves from Rs 100 to Rs 150, it’s expected that the price will retrace to Rs 120 before moving upwards again to a higher level. The Fibonacci Ratios, i.e 61.8%, 38.2% and 23.6% helps traders determine the level of retracement, and also serve as indicators to enter a new position or exit a loss-making one.&lt;/p&gt;
+
+&lt;p&gt;Let’s understand Fibonacci Retracement through the help of the TCS share price over the last 6 months.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Fibonacci/6.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Image Credit: moneycontrol.com&lt;/p&gt;
+
+&lt;p&gt;We can calculate the retracement levels manually, but most technical analysis tools enable us to draw Fibonacci levels automatically. Fibonacci levels are drawn when the stock is in an uptrend or downtrend, between a trough and a peak. Here, the price on 2nd Nov, i.e, Rs 2592 has been taken as the trough, and point A (Rs 3353) is the peak. Notice how the stock movements correspond with the Fibonacci levels before it reaches the peak. From there, the price retreats to point B, which is 38.2% below the peak, then rises and again retraces to C 61.8% reduction. It moves onto D the 38.2% and then moves towards the peak E. From there it retraces to F and this cycle continues.&lt;/p&gt;
+
+&lt;p&gt;So, what does it mean for the trader? How do the retracement levels affect the trading strategies? This chart has multiple implications:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If a trader has a significant position at point A and sees that the stock price is falling, they can place the stop-loss at point B because the stock can fall further if it crosses that level, and it did. This function serves to cut down his losses.&lt;/li&gt;
+  &lt;li&gt;At point C when the stock starts rallying and a trader misses this opportunity, they can enter into the market at point D, because the stock crosses the retracement line and the price is expected to rise further.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Thus, the retracement levels enable us to determine targets and stop-loss for our trades and contribute to the construction of support and resistance lines, one of the fundamental concepts of technical analysis. However, Fibonacci Retracement shouldn’t be the only factor in determining trades, but it acts as an indicator to support trading strategies and should be taken with a grain of salt.
+Conclusion
+The Fibonacci number has vast applications, in many many fields. Some of the are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;It is used in the algorithm for a polyphase merge sort, which divides the list in the proportion of the Golden Ratio. It is also used for one-dimensional searching algorithms.&lt;/li&gt;
+  &lt;li&gt;Random number generators also use a form of the Fibonacci sequence.&lt;/li&gt;
+  &lt;li&gt;Used in Planning Poker, a game used to estimate the duration of software development.&lt;/li&gt;
+  &lt;li&gt;Fibonacci series plays a key role in the formation of the Brock-Mirman economic growth model.&lt;/li&gt;
+  &lt;li&gt;Mario Merz, a 20th-century artist, used the Golden Circle in his artworks in the 1970s.&lt;/li&gt;
+  &lt;li&gt;Fibonacci sequence features prominently in musical composition, popularised by Joseph Schillinger.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The purpose of the article was to establish the fact that Fibonacci sequence isn’t some trivial mathematical concept spoken of casually; but that its applications are everywhere, not always prominent but subtle in nature.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">MAPPING POPULATION GROWTH WITH LOGISTIC MAP</title><link href="http://localhost:4000/blog/Logistic-Map/" rel="alternate" type="text/html" title="MAPPING POPULATION GROWTH WITH LOGISTIC MAP" /><published>2021-05-26T00:00:00+05:30</published><updated>2021-05-26T00:00:00+05:30</updated><id>http://localhost:4000/blog/Logistic-Map</id><content type="html" xml:base="http://localhost:4000/blog/Logistic-Map/">&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/TheLogisticMap.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Did not understand?! Don’t worry we are here to make it simple. But let’s dive into some history first.&lt;/p&gt;
+
+&lt;p&gt;Popularized in 1976, by Robert May (a biologist), which was related to the logistic equation written down by Pierre François Verhulst.&lt;/p&gt;
+
+&lt;p&gt;Mathematically, the logistic map is written as:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Equation.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Where xn is a number between zero and one that represents the ratio (percentage) of the existing population to the maximum possible population.&lt;/p&gt;
+
+&lt;p&gt;The values of interest for the parameter r (sometimes also denoted μ) is the growth rate of the population.
+Here xn+1 shows the population in the next period (Let’s assume a period to be of a year here).&lt;/p&gt;
+
+&lt;p&gt;To understand its real-life application let’s take the following case:&lt;/p&gt;
+
+&lt;p&gt;CASE&lt;/p&gt;
+
+&lt;p&gt;Analyse the population of a species by using The Logistic Map equation. Remember Darwin’s famous lines “Survival of the fittest” which means that organisms of a species do compete for resources for survival. Remember this is just a theoretical equation. Population sizes in real life scenarios may vary significantly due to changes in many factors and figures.&lt;/p&gt;
+
+&lt;p&gt;Here the objective is to define how ‘The Logistic Equation’ fits into the patterns of population growth-&lt;/p&gt;
+
+&lt;p&gt;ANALYSIS&lt;/p&gt;
+
+&lt;p&gt;Firstly, defining the situation and the variables used&lt;/p&gt;
+
+&lt;p&gt;Population (Xn) is expressed as a percentage of the maximum possible population (which could have exhausted the entire resources available).&lt;/p&gt;
+
+&lt;p&gt;The rate of growth (r) is the growth rate at which Xn percentage of populations is growing (i.e., the percentage of the maximum possible population).&lt;/p&gt;
+
+&lt;p&gt;Before you begin with the analysis, you have to make certain assumptions to understand the nature of the population growth:&lt;/p&gt;
+
+&lt;p&gt;Population is able to develop the resources available to it, which is done by any naturally existing population.&lt;/p&gt;
+
+&lt;p&gt;The population takes into account that some organisms would be younger and others older. (i.e., not all the organism of the population are of the same age).&lt;/p&gt;
+
+&lt;p&gt;Organisms in the population fight for the resources to survive.&lt;/p&gt;
+
+&lt;p&gt;Now what you have here is a python code you can use to draw the graphs that are going to be referred to below.&lt;/p&gt;
+
+&lt;p&gt;{CODE STARTS HERE}&lt;/p&gt;
+
+&lt;p&gt;import matplotlib.pyplot as plt&lt;/p&gt;
+
+&lt;p&gt;#Enter the GROWTH_RATE(R), INITAL_POPULATION(Xn), and NO. OF YEARS YOU WANT TO SHOW THE PROJECTION FOR&lt;/p&gt;
+
+&lt;p&gt;growth_rate = float(input(“Enter the growth rate for the population: “))&lt;/p&gt;
+
+&lt;p&gt;initial_population = float(input(“Enter the initial population (i.e. population for the first year): “))&lt;/p&gt;
+
+&lt;p&gt;years = int(input(“Enter the no. of years you want to find the projection for: “)) + 1&lt;/p&gt;
+
+&lt;p&gt;def logistic_equation(initial_population, growth_rate):&lt;/p&gt;
+
+&lt;p&gt;population_next_year = growth_rate&lt;em&gt;initial_population&lt;/em&gt;(1-initial_population)&lt;/p&gt;
+
+&lt;p&gt;return population_next_year&lt;/p&gt;
+
+&lt;p&gt;x = [0]&lt;/p&gt;
+
+&lt;p&gt;y = [initial_population]&lt;/p&gt;
+
+&lt;p&gt;for i in range(0, years):&lt;/p&gt;
+
+&lt;p&gt;initial_population = logistic_equation(initial_population,growth_rate)&lt;/p&gt;
+
+&lt;p&gt;x.append(i+1)&lt;/p&gt;
+
+&lt;p&gt;y.append(initial_population)&lt;/p&gt;
+
+&lt;p&gt;plt.plot(x, y, color = ‘green’, linestyle = ‘solid’, marker = ‘o’, markerfacecolor = ‘red’, markersize = 9)&lt;/p&gt;
+
+&lt;p&gt;plt.title(“Population growth at “ + str(growth_rate) + “ Growth Rate”)&lt;/p&gt;
+
+&lt;p&gt;plt.xlabel(“Year no.”)&lt;/p&gt;
+
+&lt;p&gt;plt.ylabel(“Population (as a percentage of max population)”)&lt;/p&gt;
+
+&lt;p&gt;plt.show()
+{CODE ENDS HERE}&lt;/p&gt;
+
+&lt;p&gt;In the graphs you have:&lt;/p&gt;
+
+&lt;p&gt;At
+r = 0.49 and Xn = 0.4&lt;/p&gt;
+
+&lt;p&gt;The following Is the graph for population projection over 50 years:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Figure_1_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here you can see that after a certain no. of years it becomes 0.&lt;/p&gt;
+
+&lt;p&gt;Next let’s take&lt;/p&gt;
+
+&lt;p&gt;r = 0.99 and Xn = 0.4&lt;/p&gt;
+
+&lt;p&gt;A projection for 50 years reveals such an image:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Figure_2_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here also, the population becomes extinct beyond 50 years of growth.&lt;/p&gt;
+
+&lt;p&gt;Now following are the graphs for:&lt;/p&gt;
+
+&lt;p&gt;r = 1.49 and Xn = 0.4
+&lt;img src=&quot;/blog/LogisticMap/Figure_3_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;r = 2.37 and Xn = 0.4&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Figure_4_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;r = 3 and Xn = 0.4&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Figure_5_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;r = 3.49 and Xn = 0.4&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/LogisticMap/Figure_6_Population_GrowthRate.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What you observe in graph 1, 2, 3 is that the growth rate of less than 1.6(BAR) resulted in a continuous fall in population ultimately leading to its extinction in some future years.&lt;/p&gt;
+
+&lt;p&gt;In graph no. 2, you observe that there was some chaotic movement in the initial years but in the later years the population attained equilibrium resting itself at 0.575 approximately.&lt;/p&gt;
+
+&lt;p&gt;In the graph 5 &amp;amp; 6, you can see a cyclic movement as population goes through a cycle of 2 every consecutive year and a cycle of 4 every consecutive year respectively.&lt;/p&gt;
+
+&lt;p&gt;What one can analyse from this data is how well this simple mathematical operation exhibits the working of a real-life population as follows:
+When the growth rate was low at a population of 40% (of what can be the maximum population) the population became 0 by the 10th year.&lt;/p&gt;
+
+&lt;p&gt;This explains how a small population with a low growth rate can become extinct over the years as they will not perish. New ones will not be born and old ones will die. This leads to continuous deduction in adults who can reproduce. Leading to the extinction of the species.&lt;/p&gt;
+
+&lt;p&gt;When the growth rate reached 0.99 the fall in population was gradual but in growth rate 1.49 the fall was again steep. Does this defy the 1st analysis?&lt;/p&gt;
+
+&lt;p&gt;The answer is No.&lt;/p&gt;
+
+&lt;p&gt;What happens here is as the small population grows at a rate of 0.99 it can sustain itself since the population can be fed considerably, reproduce and still survive for a countable 50+ years but ultimately become extinct in a certain year.&lt;/p&gt;
+
+&lt;p&gt;However, for the growth rate of 1.49 the fall is steep as the increased population creates competition for resources. This is not good as this leads to the fight for survival, which leads to premature deaths. Even if you keep into account the increased no. of the population as a resource still many will not be able to become of any use and be reduced for the lack of resources.&lt;/p&gt;
+
+&lt;p&gt;When the growth rate reached 2.37 it was the right growth rate as the population was able to sustain itself. The growth rate was just right for the population to be fed, taught/learn(Itself in case of unicellular and mute species), to reproduce future progenies. Ultimately they reached an equilibrium population that can thrive forever if the growth rate is stable (which does not happen in normal cases).&lt;/p&gt;
+
+&lt;p&gt;Surprisingly when the growth rate reaches 3 you can see cyclic population growth. One year it increases and the other it decreases. This is because there are constant cases of lack of resources which leads to a decline in population in one year, but as soon as the population declines it again grows back the next year only to decline the other and repeat the cycle.&lt;/p&gt;
+
+&lt;p&gt;If you go on increasing the rate the cycle will disperse its repetition intervals. Now instead of 2-year, you observe a 4-year cycle. The reason again being the same scarcity of resources in one year and abundance in the other.&lt;/p&gt;
+
+&lt;p&gt;When you increase growth rate beyond 4 it rises suddenly and then falls to almost a nil compared to the previous year, then rising and falling erratically, finally going to be 0 at some future year, which again comes somewhere after 10 years or so as seen in CASE 1.&lt;/p&gt;
+
+&lt;p&gt;(In this case, you can see a negative population which can be neglected as the population can never be negative.)&lt;/p&gt;
+
+&lt;p&gt;For low values of R you see the populations always go extinct so the equilibrium value is zero, but once R hits 1 the population stabilizes on to a constant value and the higher R is the higher the equilibrium population, but once R passes three the graph splits in two.&lt;/p&gt;
+
+&lt;p&gt;The equation never settles on to a single constant value instead it oscillates back and forth between two values one year the population is higher the next year lower and then the cycle repeats the cyclic nature of populations is observed in nature to one year there might be more rabbits and then fewer the next year and more again the year after.&lt;/p&gt;
+
+&lt;p&gt;This was a simple equation starting with only 2 variables which can help us understand the nature of population growth. Now comes the reason, where can it be applied.&lt;/p&gt;
+
+&lt;p&gt;By now you should have had a fair idea of it, some places where its expected to return good returns would be:
+Understanding sustainable population growth rates for a current population.&lt;/p&gt;
+
+&lt;p&gt;How to track population growth of a certain organism (for eg. Bacterial growth) and ways to eradicate or sustain it (either through low growth rates or by very high growth rates.)&lt;/p&gt;
+
+&lt;p&gt;Creating equilibrium populations for different species in an environment and understanding how long the different species’ populations will survive.&lt;/p&gt;
+
+&lt;p&gt;(Just a hypothetical example) It can be used to eradicate the zombie population if there is a probable outbreak in the future.
+These were some of the applications on biology. It can be applied to other fields also as it has been able to define:&lt;/p&gt;
+
+&lt;p&gt;The rhythmic pattern of a dripping faucet&lt;/p&gt;
+
+&lt;p&gt;Thermal convection in a fluid
+And, The firing of neurons in your brain&lt;/p&gt;
+
+&lt;p&gt;So, fire your neurons right away and figure out how you can use this equation to predict chaos in population growth rate or any other growth rate in your field interest.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Monty Hall Problem</title><link href="http://localhost:4000/blog/Monty-Hall/" rel="alternate" type="text/html" title="The Monty Hall Problem" /><published>2021-05-19T00:00:00+05:30</published><updated>2021-05-19T00:00:00+05:30</updated><id>http://localhost:4000/blog/Monty-Hall</id><content type="html" xml:base="http://localhost:4000/blog/Monty-Hall/">&lt;p&gt;&lt;img src=&quot;/blog/B.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To provide a prior context, this game was played in a 1960’s Canadian show called ‘Let’s make a deal, hosted by a person called Monty Hall. The show contestants had the opportunity of winning a huge prize only based on a simple probability-based choice (and some luck). We will be explaining the same in detail in this blog. Treat this as a game if you haven’t read about this before.&lt;/p&gt;
+
+&lt;p&gt;Let’s say we have 3 inverted cups in front of you, namely A, B, and C. And one of them has a piece of diamond underneath it, and the other two don’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Monty.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Since we are your host, we know which one of the cups has a reward you would want to grab. And we offer you to tap on the cup you think possesses the diamond. Let’s say you choose cup A. So far so simple, a one-third probability for the reward.&lt;/p&gt;
+
+&lt;p&gt;Now here’s a twist you’d like. Out of the remaining 2 cups B and C, we lift cup C and you find there’s nothing below it. we give you another opportunity, either switch to cup B or stay at your original choice, i.e., cup A. Take a minute to think and make a decision before you read further.&lt;/p&gt;
+
+&lt;p&gt;Before revealing the answer, we would like to pose some questions that might have popped up in your head. Does it really matter if you switch or stay? It’s 50-50, isn’t it? One cup gives you a diamond the other one doesn’t, that’s just a simple chance.&lt;/p&gt;
+
+&lt;p&gt;How about we tell you that there’s a definite strategy to this paradox that increases your probability of winning? Switch. Switch every time.&lt;/p&gt;
+
+&lt;p&gt;To put things in perspective, initially, when we gave you this choice, you had a one-third chance of winning with cup A and a two-third chance of winning with cup B and cup C put together. But when we flicked open cup C, suddenly with cup A, you still had a one-third chance of winning. However, with the unopened cup B, your probability of winning the diamond suddenly shot up to two-thirds. Voila! How did this happen? Let’s boil it down a bit further.&lt;/p&gt;
+
+&lt;p&gt;To simplify this problem, let’s consider that all of us know which cup has the diamond underneath it, say cup B. We will now encompass all different ways a person can operate with the “Switch Every Time Strategy”. Now if we ask a person to choose one of the 3 cups, he has 3 options to do so.&lt;/p&gt;
+
+&lt;p&gt;Choose cup A. Now we as the host would naturally pick open cup C because obviously, that’s the empty one. Now we ask the person again, “Would you like to switch or stay?” With the switch option, the player wins the diamond with cup B. Keep in mind here that the player was initially wrong with the choice of his cup.&lt;/p&gt;
+
+&lt;p&gt;Choose cup B. Now here it does not matter which cup we open because both A and C are empty, hence we flick open cup C (the outcome would have no difference even if you open cup A). If the player switches and chooses cup A, the player returns home empty-handed although he was initially correct.&lt;/p&gt;
+
+&lt;p&gt;Choose cup C. This is technically the same as the Choose Cup A strategy. We as the host turn open cup A. With the switch strategy, the player again chooses cup B and wins. Note that, even in this scenario, the player was initially wrong.&lt;/p&gt;
+
+&lt;p&gt;To sum up the narrative, with the “Switch Strategy”, you win 2 out of 3 times. However, scroll up again to note that if you would have relied on the “Stay Strategy” (i.e. staying with your original choice), you would have won only 1 of 3 times.&lt;/p&gt;
+
+&lt;p&gt;Clearly, not a 50-50 chance.&lt;/p&gt;
+
+&lt;p&gt;If you still haven’t understood the logic behind this, don’t worry, we will be taking another shot to help you comprehend this by modifying the game a little. Instead of having 3 cups, this time we offer you 100 cups, but only one of them has the diamond. Seems a relatively tough choice, but you are offered to guess which one of these 100 cups behold the precious item. With a poor chance of 1% of winning, supposedly you choose cup number 100.&lt;/p&gt;
+
+&lt;p&gt;This time we blow away 98 other cups which don’t possess the reward, leaving cup number 50. And now you could feel what’s happening. In the beginning, you had the mere probability of 0.01 to win. With the switch strategy, the probability of winning is an astounding 99% or 0.99 when all it seems to the naked eye is the mere option of choosing 1 out of 2.&lt;/p&gt;
+
+&lt;p&gt;What’s even more fascinating is that every time the player was wrong in his/her initial choice, the player would always bag the prize by switching. And when the wind of luck is blowing against you, you might lose with switching, i.e. choosing the correct option initially. Of course, the strategy doesn’t guarantee a win, but when observed with the large sample size, you would certainly notice that the odds shoot up instantly.&lt;/p&gt;
+
+&lt;p&gt;So, in case you are offered a choice like this in the future, don’t forget to switch and pray to God that you make the wrong choice initially.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">BACK TESTING OF TRADE STRATEGIES</title><link href="http://localhost:4000/blog/Backtesting/" rel="alternate" type="text/html" title="BACK TESTING OF TRADE STRATEGIES" /><published>2021-05-13T00:00:00+05:30</published><updated>2021-05-13T00:00:00+05:30</updated><id>http://localhost:4000/blog/Backtesting</id><content type="html" xml:base="http://localhost:4000/blog/Backtesting/">&lt;p&gt;&lt;img src=&quot;/blog/Backtesting/1.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The most exciting thing stock markets teach is the art of proper application of knowledge, patience, and perseverance.
+There are majorly 3 types of investors in the market:&lt;/p&gt;
+
+&lt;p&gt;• Conservatives: Averse to market volatility
+• Balanced: Can accept moderate volatility
+• Aggressive: Willing to accept consequences of high volatility. Invests in high-risk and leveraged instruments for high returns.
+These investors have their trading strategies majorly based on 2 types of analysis:
+• Fundamental Analysis: Analysing the annual reports of a stock company, its performance and analysing the proper future based on in-depth analysis
+• Technical Analysis: Analysing chart patterns, finding out the strong demand and supply zones, figuring out the shapes of hammers (shooting star, hammer, bullish engulfing, bearish engulfing, the indecisive Doji, the maribuzo patterns, etc).
+Constructing a profitable and everlasting strategy&lt;/p&gt;
+
+&lt;p&gt;The strategies need to be very accurate, to an extent that its probability of success is much more as compared to its loss. The decisions in the stock market have to be very quick and should have a high probability to result in success (as nothing about the future can be predicted very accurately, the high probability trades need to be identified and the low probability trades are to be rejected).&lt;/p&gt;
+
+&lt;p&gt;This synergy of taking and rejecting a particular trade decision can be optimally done when the algorithm is used by the people (which include retail investors, institutional investors, etc). This testing of the trade strategies can be done through a process called BACKTESTING OF TRADE STRATEGIES.&lt;/p&gt;
+
+&lt;p&gt;What does backtesting mean?&lt;/p&gt;
+
+&lt;p&gt;In simple words, backtesting a trading strategy is the technique of testing a trading hypothesis/strategy on prior timeframes, instead of applying a strategy for the period forward (to judge performance), which could take years, a trader can simulate his or her trading strategy on relevant past data.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Backtesting/2.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;For example, say, a trader wants to test a strategy based on the notion that Nifty Bank will outperform the overall market. But if you tested it during the US Financial Crisis, this strategy would not work properly. So, this thing should be kept in mind that backtesting does not necessarily guarantee higher or better returns.&lt;/p&gt;
+
+&lt;p&gt;Why do investors backtest their strategies?&lt;/p&gt;
+
+&lt;p&gt;Backtesting assesses the viability of a trading strategy by discovering how it would play out using historical data. If backtesting works, traders and analysts may have the confidence to employ it going forward. Another reason for traders to backtest is that they get a clear picture of how the market worked in the past. The trends by the charts show, not a complete, but an elaborate movement of a particular stock, commodity, indexes, currencies, and futures, and options of the same.&lt;/p&gt;
+
+&lt;p&gt;The only assumption taken for backtesting is:
+Any strategy that worked well in the past is likely to work the same way in the future, and conversely, any strategy that performed poorly in the past is likely to perform badly in the future.&lt;/p&gt;
+
+&lt;p&gt;Rules to backtest a strategy&lt;/p&gt;
+
+&lt;p&gt;• A broad market trend should be taken which includes different market conditions.
+• Backtesting in a particular sector company would be helpful in the same sector company majorly. As a general rule, if a strategy is targeted toward a particular type of stock, limit the testing to that genre.
+• Exposure is an important aspect. (It is the amount invested in the market). Increased exposure leads to high risks (which further leads to higher profits or losses), whereas lower exposure leads to lower risk (which further leads to lesser profits or losses).
+• Volatility measures are extremely significant and hold immense value. Traders should seek to keep volatility low to reduce risk and enable easier entry and exit points in the strategy.
+• Selecting the time intervals. For a long position, more period for backtesting, and a short buy position, less period for backtesting.
+Procedure for backtesting&lt;/p&gt;
+
+&lt;p&gt;1.Have a trading plan – A proper and systematic trading strategy need to be constructed through proper analysis before starting to backtest it.&lt;/p&gt;
+
+&lt;p&gt;Some important aspects to build a trading strategy are:&lt;/p&gt;
+
+&lt;p&gt;• Where should you trade?
+• According to your analysis the trend, the particular market follows?
+• Entering a buy or a short sell position at different market conditions?
+• Stop-loss is a particular trade?
+• Targets needed to be achieved?
+• How to exit the winning trades?&lt;/p&gt;
+
+&lt;p&gt;After answering the questions, a brief algorithm or a strategy can be made so that the strategy can be further used for testing.&lt;/p&gt;
+
+&lt;p&gt;2.Heading to previous time frames to understand if the trading algorithm built would have been successful at that moment in the past.&lt;/p&gt;
+
+&lt;p&gt;3.Check the results you receive after applying your strategy an appropriate number of times. Say 100 times for each stock, you are willing to trade-in.&lt;/p&gt;
+
+&lt;p&gt;4.Leaving the personal bias aside, record the number of times your algorithm worked accurately and the number of times, it gave the wrong outcomes than what was accepted.&lt;/p&gt;
+
+&lt;p&gt;AN EXAMPLE&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/Backtesting/3.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Let a backtesting strategy be:&lt;/p&gt;
+
+&lt;p&gt;CONDITION 1 – Buy if the lowest point of the next candle is above the highest point of the previous candle.
+CONDITION 2 – When the RSI is at 80, then sell, if it is at 20, then buy. (RSI being from 20 to 80). Keeping the stop loss at 20 and 80 respectively.&lt;/p&gt;
+
+&lt;p&gt;Try using this strategy on historical data. And then work out the probability of accuracy of this backtesting strategy.
+Every strategy cannot be the best one. One out of many can be approved to be the optimum strategy.&lt;/p&gt;
+
+&lt;p&gt;Common Backtesting measures&lt;/p&gt;
+
+&lt;p&gt;• Net profit/Loss
+• Return: the total return of the portfolio in a specific time frame
+• Risk-adjusted return: The return of portfolio adjusted for a level of risk
+• Market exposure: Degree of exposure to different segments of the market
+• Volatility: The dispersion of returns on the portfolio&lt;/p&gt;
+
+&lt;p&gt;Identifying the right one&lt;/p&gt;
+
+&lt;p&gt;The future of the trend cannot be predicted, so this concept works on probability. If the probability is greater than half or more precisely and to be on a safer side, is greater than 65%, then the strategy is good to be applied in the live markets.
+Points to be kept in mind:&lt;/p&gt;
+
+&lt;p&gt;• Using proper common sense informing the strategy- E.g. The hypothesis of a trend of Bank Nifty should not be affected by the increase in the price of Apples, as this correlation does not make sense.
+• Using Blind data – The data should not be chosen which matches the requirements of your strategy. The data should not have a biased movement. This is a mistake which is usually encountered by any trader, unconsciously.
+• Continue backtesting – Now and then, new demand zones, supply zones, and breakouts can be identified, so backtesting should be continued so that the strategy does not become outdated.
+• Identify key metrics, indicators, and results before your test- It is recommended to use several different indicators and metrics as well as using multiple data sets whenever possible. This will improve the accuracy of your results.
+• Be ready to change your strategy – The conditions are highly volatile. It may happen that the strategy may have worked in the past, but it won’t work in the live markets due to a certain event or sudden breakouts in the zones may force the investors to change strategies as the markets change their trends.&lt;/p&gt;
+
+&lt;p&gt;Does backtesting help in the markets?&lt;/p&gt;
+
+&lt;p&gt;Backtesting is no doubt, a very important aspect in building trading strategies and testing them through historical trends and data. But backtesting has its limitations too. They are:&lt;/p&gt;
+
+&lt;p&gt;• Market conditions constantly change. Factors that have affected the market in the past may not affect the market in the present day or the future.
+• New conditions such as volume, interest rate, and volatility may affect the market differently.&lt;/p&gt;
+
+&lt;p&gt;Solution&lt;/p&gt;
+
+&lt;p&gt;An integral way to use backtesting, to reduce the adverse effect of the limitations&lt;/p&gt;
+
+&lt;p&gt;The best way to get started on trading a new strategy is to keep the leverage minimum and the possible losses under control. After all, losing is inevitable in trading, and losing an affordable amount of money in testing a new strategy may be the best way to go as it can be a vital part of the learning and tweaking process.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Birthday Problem</title><link href="http://localhost:4000/blog/Birthday-Problem/" rel="alternate" type="text/html" title="The Birthday Problem" /><published>2021-05-05T00:00:00+05:30</published><updated>2021-05-05T00:00:00+05:30</updated><id>http://localhost:4000/blog/Birthday-Problem</id><content type="html" xml:base="http://localhost:4000/blog/Birthday-Problem/">&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(1).png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Alternatively, how many people must be there in a room such that the probability of two people sharing the same birthday is pretty high, 50% to 90%? Quite intriguing questions, right? Think about the problem before reading further on. Assume that there are no twins in the room, the no. of days in the year is 365 (sorry people who have birthdays on 29th Feb) and the distribution of birthdays throughout the year is uniform (Actually it’s the worst case, the results will be even better in real-world scenarios because the birthdays are more closely distributed in the real-world than the ideal world of uniform distribution).&lt;/p&gt;
+
+&lt;p&gt;The Math&lt;/p&gt;
+
+&lt;p&gt;Let’s turn to math for an answer because our intuition can be wrong (wasn’t yours?) but math can’t be wrong. We as humans are a bit selfish (weren’t you thinking about your birthday matching with someone else, rather than any two people having the same birthday). Combinatorics tells us that there are nC2 pairs possible when we take any 2 people from the total of n people in the room.&lt;/p&gt;
+
+&lt;p&gt;For these calculations, we’ll make a few assumptions. First, we’ll disregard leap years. It simplifies the math without having too great an effect on the results. Second, we assume that birthdays are uniformly distributed throughout the year and have an equal probability of occurring (However, that is not usually the case. Studies have shown that more people are born in the first half of the year in India than the second, especially from April to June). Taking uniform distribution gives a truer mathematical approximation as the probability of two people sharing the same birthday is the least in case of uniform distribution.&lt;/p&gt;
+
+&lt;p&gt;We’ll start with one person, and then add people in one at a time to illustrate how the calculations work. It is simpler to find the probability that no one shares a birthday. We’ll then take that probability and subtract it from one to derive the probability that at least two people share a birthday because these two are complements of each other.&lt;/p&gt;
+
+&lt;p&gt;Using, P(A) = 1 - P(A’),&lt;/p&gt;
+
+&lt;p&gt;Probability of at least one same birthday = 1 – Probability of no same birthday&lt;/p&gt;
+
+&lt;p&gt;For the first person, there are no birthdays already reserved, which means that there is a 365/365 chance that there is not a shared birthday. That makes sense since we have only one person.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(2).PNG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Adding a second person to the mix gives us an interesting result. The first person covers one possible birthday, so the second person has a 364/365 chance of not sharing the same day. To find the probability of no match, we’ll multiply the probabilities of the first two people and subtract from one to calculate the probability of them sharing the same birthday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(3).PNG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;When the third person comes, the previous two people already cover two dates. So, the third person has a probability of 363/365 for not sharing a birthday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(4).PNG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The pattern for how to calculate the probability for a given number of people must be quite visible now, though no worries if you couldn’t figure it out. Here’s the general form of the equation:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(5).PNG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;By assessing the probabilities, the solution to the Birthday Problem is that you need a group of 23 people to have a 50.73% chance of people sharing a birthday! Most people expect the group to be considerably larger than that (what was you guess?). The chart also depicts that a group of 57 has a probability of 0.99. It’s practically a guarantee that in a group of 57 people, two will share a birthday.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BirthdayProblem/BirthdayProblem%20(6).png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(Credit: statisticsbyjim.com)&lt;/p&gt;
+
+&lt;p&gt;Explaining the small size of the group.&lt;/p&gt;
+
+&lt;p&gt;People consider the answer to the Birthday Problem difficult to believe: How can it be so small? However, the answer is correct, proven by probability and statistics. When thinking of the problem, people usually consider themselves. However, it could be any two people in the group. If we pair each person with another, this leads to the formation of a large number of pairs and therefore increases the possibility of the twin-birthday pair. The number of different pairs or unique combinations formed for 23 people (probability of 0.5) is 253.&lt;/p&gt;
+
+&lt;p&gt;=&amp;gt; nC2 = 23C2 = 253&lt;/p&gt;
+
+&lt;p&gt;As seen earlier, each pair’s probability of sharing a birthday is 0.0027, but for 253 pairs that number changes drastically.&lt;/p&gt;
+
+&lt;p&gt;Similarly, when there are 57 people when the probability is ~1, you have 1596 pairs. Now, we would find it absurd if none of the pairs share a birthday.&lt;/p&gt;
+
+&lt;p&gt;=&amp;gt; nC2 = 57C2 = 1596&lt;/p&gt;
+
+&lt;p&gt;Conclusion&lt;/p&gt;
+
+&lt;p&gt;We conclude that intuition doesn’t work in such problems because we humans are pretty bad at visualizing nonlinear functions and grossly underestimate the number of pairs formed from n number of people. Mathematics and statistics hence come to our rescue and prove to be pretty useful in such situations. So next time whenever you are in a room with 50 people make sure to find your birthday match.&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Behavioral Analytics</title><link href="http://localhost:4000/blog/Behavioral-Analytics/" rel="alternate" type="text/html" title="Behavioral Analytics" /><published>2021-04-21T00:00:00+05:30</published><updated>2021-04-21T00:00:00+05:30</updated><id>http://localhost:4000/blog/Behavioral-Analytics</id><content type="html" xml:base="http://localhost:4000/blog/Behavioral-Analytics/">&lt;p&gt;&lt;img src=&quot;/blog/BehavioralAnalytics/feature.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The number of clicks you made, the amount of time you spent on each item, the type of items you spend your time on, etc. is stored. This massive volume of data is captured and analyzed by companies. You must have noticed, when you spend time on apps like Instagram, if you started to look at a lot of cute dog pictures on Instagram, your feed will automatically start having more and more dog content. This is because Instagram has been capturing your behavior and analyzing it to provide more personalized content for you. This process of analyzing user behavior is called behavioral analytics.
+Incorporating behavioral analytics into your operations can be a little intimidating, both in terms of implementation and expense. However, according to a report by McKinsey, organizations that use customer data to produce behavioral insights outperform their peers by 85 percent in sales growth and more than 25 percent in gross margin.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BehavioralAnalytics/11.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We usually see behavioral analytics being used by companies regularly (but often don’t realize it):&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Netflix:
+Netflix provides its recommendations through a complex algorithm that takes into consideration the preferences of the customer who is watching and also the shows which were watched by people with similar preferences:
+&lt;img src=&quot;/blog/BehavioralAnalytics/16.png&quot; /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Analyzing user behavior like this has helped Netflix increase the lifetime of their customers and helped in making their content more personalized for them. Netflix executives estimated that this analysis saves the company $1 Billion a year.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Amazon:
+Amazon gives product recommendations through a complex machine learning algorithm that combines behavioral data such as:
+● A user’s purchase history
+● Items in their cart
+● Items they’ve liked and rated
+● What other customers have viewed and purchased
+This algorithm is estimated to be responsible for around 35% of Amazon’s total revenue.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/BehavioralAnalytics/13.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;What are Behavioral Analysis Tools?&lt;/p&gt;
+
+&lt;p&gt;There are three main behavioral analysis tools involved in building a picture of your customer journey: segmentation analysis, funnel analysis, and cohort analysis.&lt;/p&gt;
+
+&lt;p&gt;SEGMENTATION ANALYSIS&lt;/p&gt;
+
+&lt;p&gt;The study of customers divided into smaller groups to understand specific characteristics such as their behavior, age, income, and personality is known as segmentation analysis. When a company is marketing a smaller segment of consumers, it is easier for them to advertise since each advertisement can be highly tailored and precise to the features of each group.&lt;/p&gt;
+
+&lt;p&gt;FUNNEL ANALYSIS&lt;/p&gt;
+
+&lt;p&gt;Funnel analysis is a method of evaluating the steps taken to achieve a certain outcome on a website, as well as the number of users who complete each step. Funnel analysis helps you spot where users are leaving your website, so you can optimize the problem area and increase conversion rates.
+To analyze a funnel, you have to find:
+● User Conversion rates
+● User Drop-off rates
+&lt;img src=&quot;/blog/BehavioralAnalytics/14.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;COHORT ANALYSIS&lt;/p&gt;
+
+&lt;p&gt;Cohort analysis breaks the data into a data set into related groups before analysis. These groups, or cohorts, usually share some common characteristics. Cohort analysis allows a company to find patterns throughout the life-cycle of a customer. By seeing these patterns, a company can adapt its service to those specific cohorts.&lt;/p&gt;
+
+&lt;p&gt;The 2 most common cohort types are:&lt;/p&gt;
+
+&lt;p&gt;● Acquisition Cohorts: divides users by when they signed up first for your product. For app users, you might break down cohorts by the day, the week, or the month they launched an app, and track daily weekly, or monthly cohorts.&lt;/p&gt;
+
+&lt;p&gt;● Behavioral Cohorts: divides users by their behavior in your app within a given period. These could be any number of actions that a user can perform – App Install, App Uninstall, Transaction, or any combination of these events.&lt;/p&gt;
+
+&lt;p&gt;Benefits of Behavioral Analytics&lt;/p&gt;
+
+&lt;p&gt;Behavioral analytics is critical for increasing conversion, commitment, and retention at a company. Every member of a team should be able to obtain the actionable knowledge they need to answer their questions and exploit data in ways that didn’t seem possible before with the right behavioral analytics tool.&lt;/p&gt;
+
+&lt;p&gt;According to the results, a large percentage of users use a particular e-commerce platform after searching “Thai food” on Google. Most of the users spent time on the homepage and went to the “Asian Food” tab and end up buying nothing. Examining each of these incidents as a single data point fails to shows what is going in consumers mind and not able to analyze why consumer isn’t buying the product&lt;/p&gt;
+
+&lt;p&gt;Both web traffic and page views are viewed as a timeline of related events that did not result in orders in behavioral analytics. Since the majority of users left after seeing the “Asian Food” page, there might be a discrepancy between what they’re looking for on Google and what the “Asian Food” page reveals. Knowing this, a glance at the “Asian Food” page shows that Thai food is not prominently displayed, leading people to assume it is not available, even though it is.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at a few examples of how behavioral analytics may be used:
+A travel company decides to use its website to monitor consumer events to improve its marketing efforts. A consumer might have looked at visiting a particular destination with a specific airline but abandoned the process before making an order. The business sends an email to the prospect in response to this material. To inspire a booking, the email may contain a travel discount or bid, as well as any valuable information on the destination of interest.&lt;/p&gt;
+
+&lt;p&gt;Another scenario may be that a car dealership sends out an email campaign with a PDF attachment providing information about a variety of vehicles. They can detect user events using behavioral analytics. They will see who opened the attachment, how long they left the PDF open, how much they got into it, and where they spent the most time. The data is then sent to the sales team, which is now in a stronger position to initiate talks with prospects. Prospects become more involved in discussions, and sales representatives may provide more accurate information and tailored deals.&lt;/p&gt;
+
+&lt;p&gt;Here are a couple of the benefits of behavioral data analytics:
+● Customized advertising and marketing campaigns
+● Heightened customer interaction and subsequent fulfillment
+● Better customer relations, and
+● Eventually more sales&lt;/p&gt;
+
+&lt;p&gt;To conclude, a company should use behavioral analytics to help understand its target audience’s expectations and preferences. In today’s world, not understanding it means resorting to a scattershot campaign, which does not work.&lt;/p&gt;
+
+&lt;p&gt;Criticism of Behavioral Analytics&lt;/p&gt;
+
+&lt;p&gt;Behavioral analytics raises substantial privacy questions because it necessitates the processing and aggregation of vast volumes of personal data, including extremely confidential data (such as sexual identity or sexual interests, health conditions, and location), which is then exchanged between hundreds of parties interested in targeted ads.
+Starting in 2015, Amazon joined Google and other tech giants in launching in-home voice devices that are expected to become a gold mine of behavioral insights for off-line life, just as the activities on their pages are a repository of data for your online life. Some people think this is invasive and unnecessarily informative to data providers and the government, but when they buy something, they are de facto subscribing to the terms.&lt;/p&gt;
+
+&lt;p&gt;Various Products and Websites
+&lt;img src=&quot;/blog/BehavioralAnalytics/15.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Amplitude, Indicative, and Mixpanel are common behavioral analytics providers, and each has its own set of advantages and disadvantages.&lt;/p&gt;
+
+&lt;p&gt;If a company is looking for the right behavioral analytics supplier, it’s critical to take your time to thoroughly study each tool. Some companies have a free trial period, which will help you get a clearer understanding of how the tools function and whether the product is right for your market and research needs.
+It’s important to check out behavioral intelligence resources that can help you to&lt;/p&gt;
+
+&lt;p&gt;● Optimize behavior through multiple paths and isolate the efficient ones
+● Diagnose and remove unwanted steps for customers
+● Focus on key behaviors that result in higher total customer value
+● Use targeted customer segments (cohorts) to inform and launch campaigns
+● Isolate and aim users at risk of churn ahead of time
+● Develop at-a-glance dashboards that can be shared with teams and executives&lt;/p&gt;</content><author><name>Shivansh Mehendiratta</name><email>connect@theanalyticsbay.com</email></author><summary type="html"></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/bg.jpeg" /><media:content medium="image" url="http://localhost:4000/bg.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
